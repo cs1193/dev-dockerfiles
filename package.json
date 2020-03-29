@@ -1,0 +1,33 @@
+{
+  "name": "dev-dockerfiles",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs1193/dev-dockerfiles.git"
+  },
+  "author": "Chandresh Rajkumar Manonmani <cs1193@gmail.com> <chandresh.rm@gmail.com> (chandreshrm.name)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/cs1193/dev-dockerfiles/issues"
+  },
+  "homepage": "https://github.com/cs1193/dev-dockerfiles#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "cli-progress": "^3.6.0",
+    "cli-table3": "^0.5.1",
+    "columnify": "^1.5.4",
+    "configstore": "^5.0.1",
+    "listr": "^0.14.3",
+    "lodash": "^4.17.15",
+    "log-symbols": "^3.0.0",
+    "ora": "^4.0.3",
+    "stats-percentile": "^3.1.0",
+    "update-notifier": "^4.1.0",
+    "yargs": "^15.3.1"
+  }
+}
